@@ -1,0 +1,23 @@
+/node_modules/
+/.expo/
+/dist/
+/ios/
+/android/
+/src/generated/
+/artifacts/
+.DS_Store
+*.log
+/apple_platform/vendor/
+/third_party/angle-uwp/
+/microsoft_platform/**/Generated Files/
+/microsoft_platform/**/Debug/
+/microsoft_platform/**/Release/
+/microsoft_platform/**/x64/
+/microsoft_platform/**/ARM64/
+/microsoft_platform/**/AppPackages/
+/microsoft_platform/packages/
+/.vs/
+/microsoft_platform/**/*.user
+/microsoft_platform/**/*.VC.db
+/microsoft_platform/**/Bundle/
+/microsoft_platform/**/BundleBuilder/
